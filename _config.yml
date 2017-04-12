@@ -28,7 +28,8 @@ social:
 url: http://maxsmak.com
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: 
+
 
 # Directory
 source_dir: source
